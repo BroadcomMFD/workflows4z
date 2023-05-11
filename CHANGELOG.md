@@ -1,8 +1,3 @@
-## `1.3.0`
-
-- Update of the libraries
-- Added support for Zowe V2 configuration
-
 ## `1.2.1`
 
 - Major upgrade of libraries
