@@ -1,3 +1,7 @@
+## `1.2.3`
+
+- Update of the libraries
+
 ## `1.2.2`
 
 - Update of the libraries
