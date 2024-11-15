@@ -1,3 +1,10 @@
+## `1.2.4`
+
+- Implemented secrets from the Zowe SDK
+- Upgrade of external dependencies
+- Additional exception handling added to the profile check
+- Several commands added to the editor and explorer context menus
+
 ## `1.2.3`
 
 - Update of the libraries
