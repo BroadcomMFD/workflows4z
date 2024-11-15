@@ -36,7 +36,7 @@ an empty imput box is no longer shown, instead an informative message `No workfl
 ## `1.1.0`
 
 - Add Zowe CLI integration using default z/OSMF profile.
-- Prefix `w4z` for all commands provided by the extention.
+- Prefix `w4z` for all commands provided by the extension.
 - New commands :
     - Create a z/OSMF workflow on a z/OS system
     - Start an already created workflow in z/OSMF
