@@ -23,9 +23,8 @@ Workflows4z is a VS Code extension that lets you create and validate the z/OSMF 
 - npm [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - Zowe CLI (to properly install zowe cli, in command line type: `npm install -g @zowe/cli`)
 - Zowe CLI default zosmf profile to create and start the z/OSMF workflow and list the workflow steps. 
-    1. check https://github.com/zowe/zowe-cli 
-    2. create profile with user credentials (run command:`zowe profiles create zosmf-profile --help`) 
-    3. before use of extension features, <br/>
+    1. create your configuration profile based on <https://docs.zowe.org/stable/user-guide/cli-using-initializing-team-configuration/>
+    2. before use of extension features, <br/>
        first check in command line that zowe profile works corectly (either list workflows or run: `zowe zosmf check status`) 
 
 ## Features independent on ZOWE CLI
