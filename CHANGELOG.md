@@ -1,3 +1,7 @@
+## `1.2.5`
+
+- Update of the libraries
+
 ## `1.2.4`
 
 - Implemented secrets from the Zowe SDK
