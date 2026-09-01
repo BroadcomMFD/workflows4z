@@ -1,6 +1,7 @@
 ## `1.2.5`
 
 - Update of the libraries
+- Patch fix
 
 ## `1.2.4`
 
