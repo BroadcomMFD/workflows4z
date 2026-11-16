@@ -1,3 +1,9 @@
+## `1.2.6`
+
+- Added node module bundling
+- Slimming the build
+- Update of the libraries
+  
 ## `1.2.5`
 
 - Update of the libraries
