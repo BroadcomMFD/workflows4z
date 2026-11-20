@@ -1,3 +1,7 @@
+## `1.2.7`
+
+- License update
+
 ## `1.2.6`
 
 - Added node module bundling
